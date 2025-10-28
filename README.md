@@ -17,3 +17,5 @@ Linux:
    python3 msgPlot.py
 ```
 After the first run in a chat folder, it creates a file named `allDates.txt` to speed up future runs.
+
+![picplot](https://github.com/user-attachments/assets/888aba10-616a-4230-a1a3-bff3eccc3b0a)
