@@ -10,10 +10,10 @@ This Python script analyzes your Telegram chat history and visualizes daily acti
 
 Windows:
    ```bash
-   python script_name.py
+   python msgPlot.py
    ```
 Linux:
    ```bash
-   python3 script_name.py
+   python3 msgPlot.py
 ```
 After the first run in a chat folder, it creates a file named `allDates.txt` to speed up future runs.
